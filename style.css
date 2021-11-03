@@ -1,0 +1,30 @@
+.background {
+min-height: 60%;
+min-width: 640px;
+width: 60%;
+height: auto;
+position: fixed;
+top: 20%;
+left: 13%;
+
+}
+.firstp {
+width: 150px;
+height: 300px;
+position: relative;
+top: 305px;
+left: 200px;
+}
+.secondp {
+	width: 150px;
+	height: 300px;
+	position: relative;
+	top: 305px;
+	left: 300px;
+}
+.thirdp {
+	width: 150px;
+	height: 300px;
+	position: relative;
+	top: 305px;
+	left: 400px;
